@@ -5,5 +5,6 @@ const template = "<div</div>"
 
 <template>
 <v-runtime-template :template="template"></v-runtime-template>
+<button>foo</button>
 </template>
 
